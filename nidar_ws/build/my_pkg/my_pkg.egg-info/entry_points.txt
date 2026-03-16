@@ -1,0 +1,3 @@
+[console_scripts]
+altitude_listener = my_pkg.altitude_listenter:main
+motor_start = my_pkg.motor_start:main
